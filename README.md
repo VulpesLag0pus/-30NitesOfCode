@@ -1,1 +1,4 @@
 # -30NitesOfCode
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Vulpes/30-nites-of-code)  
+  ![@Vulpes #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Vulpes)
